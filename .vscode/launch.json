@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-App<spring-spark>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.calvin.spark.App",
+            "projectName": "spring-spark",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
